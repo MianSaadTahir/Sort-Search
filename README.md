@@ -1,6 +1,6 @@
 # Sort-Search
 
-**Sort-Search** is a Python desktop application which implements a robust data sorting and searching system, where data is scraped from Flipkart. The dataset consists of 25,000 entities, each with 7 attributes, and is stored in a CSV file. The project features a user-friendly interface built with PyQt, allowing users to apply 10 different sorting algorithms and perform advanced multi-column searches using various criteria, including "start with," "end with," and logical operators (AND, OR).
+**Sort-Search** is a Python desktop application which implements a robust data sorting and searching system, where data is scraped from Flipkart. The dataset consists of 25,000 entities, each with 7 attributes, and is stored in a CSV file. The project features a user-friendly interface built with PyQt, allowing users to apply 11 different sorting algorithms and perform advanced multi-column searches using various criteria, including "start with," "end with," and logical operators (AND, OR).
 
 ## Table of Contents
 - [Features](#features)
@@ -14,24 +14,11 @@
 ## Features
 - **Web Scraping**: Extracts data from Flipkart, capturing essential attributes of various products.
 - **Data Storage**: Saves the scraped data into a CSV file for easy access and manipulation.
-- **Sorting Algorithms**: Bubble Sort
-Insertion Sort
-Selection Sort
-Merge Sort
-Quick Sort
-Heap Sort
-Radix Sort
-Shell Sort
-Counting Sort
-Tim Sort
-- **Searching Methods**: Students can manage their profiles and submit complaints.
+- **Sorting Algorithms**: Bubble Sort, Insertion Sort, Selection Sort, Merge Sort, Quick Sort, Bucket Sort, Radix Sort, Gnome Sort, Counting Sort, Bead Sort, Cocktail Shaker Sort
+- **Searching Methods**: Contains, Start_With, End_With, AND, OR
 
 ## Screenshots
 <img src="assets/1.png" alt="Screenshot" width="75%">
-<img src="assets/2.png" alt="Screenshot" width="75%">
-<img src="assets/3.png" alt="Screenshot" width="75%">
-<img src="assets/4.png" alt="Screenshot" width="75%">
-<img src="assets/5.png" alt="Screenshot" width="75%">
 
 ## Usage
 1. Clone the repository:
