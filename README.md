@@ -24,9 +24,8 @@
 1. Clone the repository:
    `git clone https://github.com/miansaadtahir/sort-search.git`
 2. Navigate to the project directory:
-   `cd FiveStarHostel/ HostelUI
-/ Resistay/ bin/ debug`
-3. Launch the `Resistay.exe` file.
+   `cd Sort-Search/DSA-mid-project/1STPROJECT/`
+3. Launch the `ui.py` file.
 
 ## Documentation
 For a detailed overview of the project and its features, visit the [Documentation](./documentation/) in the repository.
