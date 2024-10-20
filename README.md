@@ -22,7 +22,7 @@
 
 ## Usage
 1. Clone the repository:
-   `git clone https://github.com/miansaadtahir/fivestarhostel.git`
+   `git clone https://github.com/miansaadtahir/sort-search.git`
 2. Navigate to the project directory:
    `cd FiveStarHostel/ HostelUI
 / Resistay/ bin/ debug`
@@ -32,12 +32,12 @@
 For a detailed overview of the project and its features, visit the [Documentation](./documentation/) in the repository.
 
 ## Technologies Used
-- C#
-- MS SQL Server
+- Python
+- PyQt5
 
 ## Contributing
 Contributions, issues, and feature requests are welcome!  
-Feel free to check out the [issues page](https://github.com/miansaadtahir/fivestarhostel/issues) for more information.
+Feel free to check out the [issues page](https://github.com/miansaadtahir/sort-search/issues) for more information.
 
 ## License
 Distributed under the MIT License. See [LICENSE](./LICENSE) for more details.
