@@ -1,6 +1,6 @@
-# Five Star Hostel
+# Sort-Search
 
-**Five Star Hostel** is a Window Form hostel management system developed in C# with MS SQL Server integration, implementing object-oriented programming principles. This user-friendly platform features distinct logins for students, resident tutors, and senior wardens. Students can manage profiles, request leave, and submit complaints, while resident tutors oversee hostel operations and senior wardens ensure efficient coordination across all hostels.
+**Sort-Search** is a Python desktop application which implements a robust data sorting and searching system, where data is scraped from Flipkart. The dataset consists of 25,000 entities, each with 7 attributes, and is stored in a CSV file. The project features a user-friendly interface built with PyQt, allowing users to apply 10 different sorting algorithms and perform advanced multi-column searches using various criteria, including "start with," "end with," and logical operators (AND, OR).
 
 ## Table of Contents
 - [Features](#features)
@@ -12,13 +12,19 @@
 - [License](#license)
 
 ## Features
-- **3 tier model**: Business layer, Data layer and User Interface
-- **Modular Design DLL Framework**: Backend business logic and data handling separated into a DLL framework, making it reusable and flexible for future UI developments.
-- **User Authentication**: Distinct logins for students, resident tutors, and senior wardens.
-- **Profile Management**: Students can manage their profiles and submit complaints.
-- **Leave Requests**: Students can request leave through the platform.
-- **Admin Management**: Resident tutors and senior wardens can oversee operations and manage student requests.
-- **Responsive Design**: A clean and modern interface that works well on various devices.
+- **Web Scraping**: Extracts data from Flipkart, capturing essential attributes of various products.
+- **Data Storage**: Saves the scraped data into a CSV file for easy access and manipulation.
+- **Sorting Algorithms**: Bubble Sort
+Insertion Sort
+Selection Sort
+Merge Sort
+Quick Sort
+Heap Sort
+Radix Sort
+Shell Sort
+Counting Sort
+Tim Sort
+- **Searching Methods**: Students can manage their profiles and submit complaints.
 
 ## Screenshots
 <img src="assets/1.png" alt="Screenshot" width="75%">
