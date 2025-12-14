@@ -9,7 +9,7 @@ A Python desktop application which implements a robust data sorting and searchin
 - [Technologies Used](#technologies-used)
 - [Usage](#usage)
 - [Contributing](#contributing)
-
+- [License](#license)
 ## Features
 - Webscrapping data from Flipkart, capturing essential attributes of various products
 - Saves the scraped data into a CSV file for easy access and manipulation
@@ -37,3 +37,9 @@ For a detailed overview of the project and its features, visit the [Documentatio
 ## Contributing
 Contributions, issues, and feature requests are welcome!  
 Feel free to check out the [issues page](https://github.com/miansaadtahir/sort-search/issues) for more information.
+
+
+## License
+
+This project is open source and available under the MIT [License](https://github.com/MianSaadTahir/Sort-Search/blob/main/LICENSE).
+
